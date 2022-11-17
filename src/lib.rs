@@ -1,4 +1,4 @@
-#![feature(const_generics, const_evaluatable_checked, test)]
+#![feature(generic_const_exprs, test)]
 #![allow(incomplete_features)]
 use std::fmt::Debug;
 use std::net::{Ipv4Addr, Ipv6Addr};
